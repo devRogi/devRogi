@@ -1,6 +1,6 @@
 # Olá, mundo! 👋
 
-Meu nome é Roger David e sou um estudante apaixonado por Análise e Desenvolvimento de Sistemas. Estou sempre procurando aprender novas tecnologias e melhorar minhas habilidades de programação.
+Meu nome é David e sou um estudante apaixonado por Análise e Desenvolvimento de Sistemas. Estou sempre procurando aprender novas tecnologias e melhorar minhas habilidades de programação.
 
 ## 🎓 Educação
 - 📚 Estudando Análise e Desenvolvimento de Sistemas na UNIUBE - Universidade de Uberaba
