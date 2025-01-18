@@ -35,9 +35,7 @@ Meu nome é David e sou um estudante apaixonado por Análise e Desenvolvimento d
 </div>
 <h1>Contatos</h1>
 <div>
- <a href="https://www.tiktok.com/@r0giin?_t=8mLKb9flPl7&_r=1"><img width="98px" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
  <a href="https://www.instagram.com/roge_rdv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/roger-david-ab5404309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ## ⚡ Fato interessante
