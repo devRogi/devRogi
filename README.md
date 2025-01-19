@@ -5,6 +5,12 @@ Meu nome é David e sou um estudante apaixonado por Análise e Desenvolvimento d
 ## 🎓 Educação
 - 📚 Estudando Análise e Desenvolvimento de Sistemas na UNIUBE - Universidade de Uberaba
 
+## 📲 Contatos
+<div>
+ <a href="https://www.instagram.com/roge_rdv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/roge_rdv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
+
 ## 💻 Habilidades Técnicas
 - Linguagens de programação:
   <div aligh="left">
@@ -32,10 +38,6 @@ Meu nome é David e sou um estudante apaixonado por Análise e Desenvolvimento d
  <a href="https://www.github.com/devRogi">
  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=devRogi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRogi&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<h1>Contatos</h1>
-<div>
- <a href="https://www.instagram.com/roge_rdv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 ## ⚡ Fato interessante
