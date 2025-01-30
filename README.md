@@ -35,9 +35,6 @@ Meu nome é David e sou um estudante apaixonado por Análise e Desenvolvimento d
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRogi&layout=compact&langs_count=16&theme=dark"/>
 </a>
 
-## ⚡ Fato interessante
-Quando não estou codificando, você pode me encontrar lendo livros, jogando videogames ou explorando a natureza!
-
 ## 📊 Atividade
 <!-- contador de visitas -->
 <p align="center">
